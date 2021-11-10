@@ -1,4 +1,4 @@
-# Programa Top v13 -  Tiempo Parcial
+# Programa Top v16 -  Tiempo Parcial
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Leonel Oliveros](profiles/leonel-oliveros.md)
@@ -9,7 +9,6 @@
 - Joao Moran
 - Percy Jove
 - Henry Tene
-- Javier Huaman
 - Felipe Ospina
 - Francisco Moncada
 - Aldair Huamani
