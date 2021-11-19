@@ -9,7 +9,7 @@
 - Joao Moran
 - Percy Jove
 - Henry Tene
-- Felipe Ospina
+- [Felipe Ospina](profiles/felipe-ospina.md)
 - Francisco Moncada
 - Aldair Huamani
 - Eddy Rodriguez
