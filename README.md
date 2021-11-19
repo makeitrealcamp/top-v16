@@ -11,7 +11,7 @@
 - Henry Tene
 - Felipe Ospina
 - Francisco Moncada
-- Aldair Huamani
+- [Aldair Huamani](profiles/aldair-huamani.md)
 - Eddy Rodriguez
 - Wilfredo Rujel
 - Pedro Marquez
