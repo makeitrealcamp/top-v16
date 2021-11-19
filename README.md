@@ -17,7 +17,7 @@
 - Pedro Marquez
 - Henry Aymara Apaza
 - Jaime Fernandez
-- Brayan Martinez
+- [Brayan Martinez](profiles/brayan-martinez.md)
 - Tony Ojeda
 - Rocio Fernandez
 - Bibiana Peña
