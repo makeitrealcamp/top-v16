@@ -1,12 +1,14 @@
-# Programa Top v16 -  Tiempo Parcial
+# Programa Top v16 - Tiempo Parcial
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
+
 - [Leonel Oliveros](profiles/leonel-oliveros.md)
 - Rogger Vasquez
 - Carolina Mejia
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Joao Moran
+
+- [Joao Moran](profiles/joao-moran.md)
 - Percy Jove
 - Henry Tene
 - Felipe Ospina
@@ -34,4 +36,3 @@
 - **Modulo 8**: Envio de email e Integración con pasarela de pagos.
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
-
