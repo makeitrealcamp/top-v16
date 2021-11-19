@@ -1,10 +1,9 @@
-# [Leonel Oliveros](https://github.com/Baku452)
+# [Aldair Huamani](https://github.com/Baku452)
 
 Agregando informacion de Aldair Huamani
 
 Linkedin: [Aldair] (https://www.linkedin.com/in/aldair-huamani-cusi/)
 Instagram: [Alda] (https://www.instagram.com/aldair_alda/)
-
 
 Estudios
 
@@ -14,4 +13,3 @@ Experiencia
 
 1. Desarrollador Full Stack en Valencia Travel
 2. Desarrolador Web en Wordpress
-
