@@ -8,7 +8,7 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Joao Moran
 - Percy Jove
-- Henry Tene
+- [Henry Tene](profiles/henry_tene.md)
 - Felipe Ospina
 - Francisco Moncada
 - Aldair Huamani
