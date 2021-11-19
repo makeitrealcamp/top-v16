@@ -14,7 +14,7 @@
 - Felipe Ospina
 - Francisco Moncada
 - Aldair Huamani
-- Eddy Rodriguez
+- [Eddy Rodriguez](profiles/eddy-rodriguez.md)
 - Wilfredo Rujel
 - Pedro Marquez
 - Henry Aymara Apaza
