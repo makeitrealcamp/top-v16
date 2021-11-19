@@ -10,7 +10,7 @@
 - Percy Jove
 - Henry Tene
 - Felipe Ospina
-- Francisco Moncada
+- [Francisco Moncada](profiles/francisco-moncada.md)
 - Aldair Huamani
 - Eddy Rodriguez
 - Wilfredo Rujel
