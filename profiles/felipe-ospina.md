@@ -2,6 +2,7 @@
 
 Soy de Medellín, Colombia, me gusta la naturaleza, el deporte y la tecnología. Soy negociador internacional de profesión pero ya dedicado al desarrollo web hace un par de años.
 
+
 ## Perfiles sociales
 
 - [Github](https://github.com/felipeospina21/)
@@ -13,5 +14,5 @@ Soy de Medellín, Colombia, me gusta la naturaleza, el deporte y la tecnología.
 - Programacion: ⭐️⭐️⭐️
 - Javascript: ⭐️⭐️⭐️
 - CSS: ⭐️⭐️⭐️
-- HTML: ⭐️⭐️⭐️
+- HTML: ⭐️⭐️
 - Git: ⭐️⭐️⭐️
