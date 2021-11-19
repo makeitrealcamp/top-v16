@@ -15,7 +15,7 @@
 - Eddy Rodriguez
 - Wilfredo Rujel
 - Pedro Marquez
-- Henry Aymara Apaza
+- [Henry Aymara Apaza](profiles/henry-aymara.md)
 - Jaime Fernandez
 - Brayan Martinez
 - Tony Ojeda
