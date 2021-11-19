@@ -1,8 +1,8 @@
 # Henry Aymara Apaza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Redes Sociales
-[LinkedIn](www.linkedin.com/in/henry-aymara-apaza-878672169)
-[Github](https://github.com/henryapz)
+- [LinkedIn](www.linkedin.com/in/henry-aymara-apaza-878672169)
+- [Github](https://github.com/henryapz)
 
 
 ## Lenguajes de programación
