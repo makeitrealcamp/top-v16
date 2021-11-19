@@ -8,12 +8,12 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 
-- Joao Moran
+- [Joao Moran](profiles/joao-moran.md)
 - Percy Jove
 - Henry Tene
 - Felipe Ospina
 - Francisco Moncada
-- Aldair Huamani
+- [Aldair Huamani](profiles/aldair-huamani.md)
 - Eddy Rodriguez
 - Wilfredo Rujel
 - [Pedro Marquez](profiles/pedro-marquez.md)
@@ -21,7 +21,7 @@
 - Jaime Fernandez
 - Brayan Martinez
 - Tony Ojeda
-- Rocio Fernandez
+- [Rocío Fernández](profiles/rocio-fernandez.md)
 - Bibiana Peña
 
 ## Entregables proyecto grupal 💻🤝
