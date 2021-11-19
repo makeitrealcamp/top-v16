@@ -19,7 +19,7 @@
 - Jaime Fernandez
 - Brayan Martinez
 - Tony Ojeda
-- Rocio Fernandez
+- [Rocío Fernández](profiles/rocio-fernandez.md)
 - Bibiana Peña
 
 ## Entregables proyecto grupal 💻🤝
