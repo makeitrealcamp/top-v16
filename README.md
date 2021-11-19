@@ -20,7 +20,7 @@
 - Henry Aymara Apaza
 - Jaime Fernandez
 - Brayan Martinez
-- Tony Ojeda
+- [Tony Ojeda](profiles/tony-ojeda.md)
 - [Rocío Fernández](profiles/rocio-fernandez.md)
 - Bibiana Peña
 
