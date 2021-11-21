@@ -16,7 +16,7 @@
 - [Aldair Huamani](profiles/aldair-huamani.md)
 - Eddy Rodriguez
 - Wilfredo Rujel
-- Pedro Marquez
+- [Pedro Marquez](profiles/pedro-marquez.md)
 - Henry Aymara Apaza
 - Jaime Fernandez
 - Brayan Martinez
