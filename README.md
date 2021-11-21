@@ -19,7 +19,7 @@
 - [Pedro Marquez](profiles/pedro-marquez.md)
 - Henry Aymara Apaza
 - Jaime Fernandez
-- Brayan Martinez
+- [Brayan Martinez](profiles/brayan-martinez.md)
 - [Tony Ojeda](profiles/tony-ojeda.md)
 - [Rocío Fernández](profiles/rocio-fernandez.md)
 - Bibiana Peña
