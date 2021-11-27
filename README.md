@@ -11,7 +11,7 @@
 - [Joao Moran](profiles/joao-moran.md)
 - Percy Jove
 - Henry Tene
-- Felipe Ospina
+- [Felipe Ospina](profiles/felipe-ospina.md)
 - Francisco Moncada
 - [Aldair Huamani](profiles/aldair-huamani.md)
 - [Eddy Rodriguez](profiles/eddy-rodriguez.md)
