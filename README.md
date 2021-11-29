@@ -11,13 +11,13 @@
 - [Joao Moran](profiles/joao-moran.md)
 - Percy Jove
 - Henry Tene
-- Felipe Ospina
+- [Felipe Ospina](profiles/felipe-ospina.md)
 - Francisco Moncada
 - [Aldair Huamani](profiles/aldair-huamani.md)
-- Eddy Rodriguez
+- [Eddy Rodriguez](profiles/eddy-rodriguez.md)
 - Wilfredo Rujel
+- [Henry Aymara Apaza](profiles/henry-aymara.md)
 - [Pedro Marquez](profiles/pedro-marquez.md)
-- Henry Aymara Apaza
 - Jaime Fernandez
 - [Brayan Martinez](profiles/brayan-martinez.md)
 - [Tony Ojeda](profiles/tony-ojeda.md)
