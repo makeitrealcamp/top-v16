@@ -15,7 +15,7 @@
 - Francisco Moncada
 - [Aldair Huamani](profiles/aldair-huamani.md)
 - [Eddy Rodriguez](profiles/eddy-rodriguez.md)
-- Wilfredo Rujel
+- [Wilfredo Rujel](profiles/wilfredo-rujel.md)
 - [Henry Aymara Apaza](profiles/henry-aymara.md)
 - [Pedro Marquez](profiles/pedro-marquez.md)
 - Jaime Fernandez
