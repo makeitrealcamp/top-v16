@@ -1,9 +1,6 @@
-var filterFn = require("./mymodule.js");
+let mymodule = require("./mymodule.js");
 
-filterFn(process.argv[2], process.argv[3], function(err, list) {
-    if (err) return console.error("ocurrio un error:", err);
-
-    list.forEach(function(file) {
-        console.log(file);
-    });
+mymodule(process.argv[2], process.argv[3], (error, lista) => {
+    if (error) return console.log(error);
+    lista.map((archivo) => console.log(archivo));
 });

@@ -1,12 +1,13 @@
-var http = require("http");
-var text = "";
+const http = require("http");
+const url = process.argv[2];
+let caracteres = "";
 
-http.get(process.argv[2], function(response) {
-    response.on("data", function(chunk) {
-        text += chunk;
+http.get(url, function(response) {
+    response.on("data", (data) => {
+        caracteres += data;
     });
-    response.on("end", function() {
-        console.log(text.length);
-        console.log(text);
+    response.on("end", () => {
+        console.log(caracteres.length);
+        console.log(caracteres);
     });
 });
