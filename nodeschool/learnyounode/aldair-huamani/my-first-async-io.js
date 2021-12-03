@@ -9,4 +9,5 @@ function callback(err,data){
     console.log(lines);
 }
 
+
 read(); 
