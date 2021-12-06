@@ -1,11 +1,8 @@
-let http = require("http");
-
-http.get(process.argv[2], function(response) {
+const http = require("http");
+const url = process.argv[2];
+http.get(url, (response) => {
     response.setEncoding("utf8");
-    response.on("data", function(data) {
-        console.log(data);
-    });
-    response.on("error", function(error) {
-        console.log(error);
-    });
+    response.on("data", (data) => console.log(data));
+    response.on("error", (error) => console.log(error));
+    /*response.on("end", (end) => console.log(end));*/
 });

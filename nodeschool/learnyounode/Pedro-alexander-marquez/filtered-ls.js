@@ -1,11 +1,11 @@
-var fs = require("fs");
-var path = require("path");
-
-fs.readdir(process.argv[2], function(err, files) {
-    if (err) return console.error(err);
-    files.forEach(function(file) {
-        if (path.extname(file) === "." + process.argv[3]) {
-            console.log(file);
+const fs = require("fs");
+const path = require("path");
+const extname = `.${process.argv[3]}`;
+fs.readdir(process.argv[2], (error, lista) => {
+    if (error) return console.error(error);
+    lista.map((archivo) => {
+        if (path.extname(archivo) === extname) {
+            console.log(archivo);
         }
     });
 });
