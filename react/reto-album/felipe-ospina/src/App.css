@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+.album-container {
+  display: flex;
+  /* border: 1px solid lightgray; */
+  box-shadow: 2px 2px 5px lightgray;
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem;
+  width: 450px;
+}
+
+.album-info-container {
+  margin-left: 1rem;
+  text-align: left;
+  width: 100%;
+}
+
+.album-info-container h1,
+h6 {
+  margin: 0;
+}
+
+.album-info-container h6 {
+  color: gray;
+  font-style: italic;
+}
+
+.album-name,
+.album-year {
+  font-size: 0.875rem;
+  color: rgb(107, 107, 107);
+}
+
+.album-name {
+  margin-bottom: 0;
+}
+.album-year {
+  margin-top: 0;
+}
+
+.btn {
+  background-color: pink;
+  border: none;
+  padding: 0.3rem 0.875rem;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+.btn-container {
+  margin: 2.5rem 0.5rem 0 0;
+  display: flex;
+  justify-content: space-between;
+}
