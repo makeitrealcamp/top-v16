@@ -6,4 +6,4 @@ async function getLengthFile(path) {
     console.log(file.split('\n').length - 1)
 }
 
-getLengthFile(process.argv[1])
+getLengthFile(process.argv[2])
