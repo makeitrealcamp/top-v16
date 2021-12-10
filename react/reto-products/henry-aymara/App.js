@@ -1,44 +1,44 @@
 import "./App.css";
 import { productData } from "./data";
-import React from "react";
+import React, { useState } from "react";
 
-class App extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = { show_cards: true };
-    }
+const useToogle = () => {
+  const [show_cards, setToogle] = useState(false);
+  const changeCards = () => {
+    setToogle(!show_cards)
+  }
+  return {show_cards, changeCards}
+}
 
-    render() {
-        const data_array = productData.map((element, index) => (
-            <Card
-                img={element.img}
-                title={element.title}
-                price={element.price}
-                bg={element.color}
-                id={index}
-            ></Card>
-        ));
 
-        return (
-            <div className="App">
-                <h1 className="title">Precios</h1>
-                <button
-                    className="button_show_prod"
-                    onClick={() => {
-                        this.setState({
-                            show_cards: !this.state.show_cards
-                        });
-                    }}
-                >
-                    Ver Productos
-                </button>
-                {
-                  this.state.show_cards ? <div className="cards-container">{data_array}</div>:''
-                }
-                
-            </div>
-        );
-    }
+function App() {
+    const {show_cards, changeCards} = useToogle()
+    const data_array = productData.map((element, index) => (
+        <Card
+            img={element.img}
+            title={element.title}
+            price={element.price}
+            bg={element.color}
+            id={index}
+        ></Card>
+    ));
+
+    return (
+        <div className="App">
+            <h1 className="title">Precios</h1>
+            <button
+                className="button_show_prod"
+                onClick={changeCards}
+            >
+                Ver Productos
+            </button>
+            {show_cards ? (
+                <div className="cards-container">{data_array}</div>
+            ) : (
+                ""
+            )}
+        </div>
+    );
 }
 
 function Card(props) {
