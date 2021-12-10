@@ -1,0 +1,76 @@
+.App {
+  text-align: start;
+  padding: 2rem;
+}
+.Card {
+  padding: 20px;
+  background: #d4dbf8;
+  border-radius: 16px;
+  text-align: center;
+  width: 150px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card__image {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.card__product__info {
+  text-align: start;
+}
+
+.card__product__title {
+  margin: 5px 0px 0px;
+  font-size: 14px;
+}
+
+.card__product__price {
+  margin: 0px;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.button_show_prod {
+  border: 0px;
+  background: #2f71df;
+  color: white;
+  line-height: 130%;
+  padding: 4px 8px;
+  font-size: 14px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button_show_prod:hover {
+  background: #89AAE6;
+}
+
+.cards-container {
+  display: flex;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
