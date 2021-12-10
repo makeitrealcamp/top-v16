@@ -1,0 +1,50 @@
+.app {
+    padding: 50px;
+}
+
+.container {
+    display: flex;
+}
+.product {
+    width: 200px;
+    height:250px;
+    border-radius: 15px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: 1px 1px 5px #000;
+}
+
+.product img {
+    width:100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.product__image {
+    display: flex;
+    justify-content: center;
+}
+
+.product__detail {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-weight: bold;
+    font-size: 9px;
+    padding-left: 15px;
+}
+
+.product__detail h1 {
+    margin: 0;
+}
+
+button {
+    padding: 10px;
+    background-color: #0071e3;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
