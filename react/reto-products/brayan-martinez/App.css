@@ -1,0 +1,41 @@
+.btn{
+    margin-left: 5px;
+    padding: 8px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #1e4facec;
+    color: white;
+  
+    border: none;
+  }
+  .content{
+  width: 100%;
+  display: flex;
+  
+  }
+  .content__card{
+    border-radius: 10px;
+    margin:20px 0px 0px 20px;
+    -webkit-box-shadow: 2px 5px 12px -4px rgba(0,0,0,0.74);
+  -moz-box-shadow: 2px 5px 12px -4px rgba(0,0,0,0.74);
+  box-shadow: 2px 5px 12px -4px rgba(0,0,0,0.74);
+  width: 150px;
+  height: 200px;
+  
+  }
+  .content__img{
+    display: block;
+  margin:   20px  auto 0px ;
+  width: 50%;
+  height: 80px;
+  
+  }
+  .content__card h5,.content__card span{
+  margin-bottom: 0px;
+  margin-left: 10px;
+  
+  }
+  .content__card span{
+   font-size: 15px;
+  }
+  
