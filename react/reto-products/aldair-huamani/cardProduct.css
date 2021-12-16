@@ -1,0 +1,30 @@
+.cardBox{
+    border-radius: 20px;
+    padding: 20px 40px;
+    max-width: 281px;
+    max-height: 350px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-content: center;
+    box-shadow: 1px 1px 6px 1px #dfdfdf;
+    margin: 0 15px;
+}
+
+.cardBox__img{
+    max-width: 141px;
+    height: auto;
+    padding-bottom: 10px;
+}
+.cardBox__content {
+    text-align: left;
+}
+.cardBox__content h2{
+    padding: 0;
+    margin-bottom: 10px;
+}
+.cardBox__content p{
+    margin: 0;
+    padding: 0;
+}
